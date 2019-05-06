@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="db_image">
+    <db_image action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <format>JPEG</format>
+        <height>50</height>
+        <image>c792f138dbd13300e10070e2399619d0</image>
+        <name>NeedIT.jpg</name>
+        <size_bytes>938</size_bytes>
+        <sys_class_name>db_image</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-06 09:29:12</sys_created_on>
+        <sys_id>9e66edbcdb913300e10070e239961939</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>NeedIT.jpg</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>db_image_9e66edbcdb913300e10070e239961939</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-06 10:21:59</sys_updated_on>
+        <thumbnail/>
+        <width>50</width>
+    </db_image>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#c0f49f</average_image_color>
+        <chunk_size_bytes>734003</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/jpeg</content_type>
+        <file_name>image</file_name>
+        <image_height>50</image_height>
+        <image_width>50</image_width>
+        <size_bytes>938</size_bytes>
+        <size_compressed>767</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-06 10:21:59</sys_created_on>
+        <sys_id>c792f138dbd13300e10070e2399619d0</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>guest</sys_updated_by>
+        <sys_updated_on>2019-05-06 10:22:01</sys_updated_on>
+        <table_name>ZZ_YYdb_image</table_name>
+        <table_sys_id>9e66edbcdb913300e10070e239961939</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="image" sys_id="c792f138dbd13300e10070e2399619d0">c792f138dbd13300e10070e2399619d0</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-06 10:21:59</sys_created_on>
+        <sys_id>0b92f138dbd13300e10070e2399619d0</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>+3/j/wMGAS83TzcGRkZGBg8gZPh/m8GZgYONjZ2NlYOdnZ2Tk4OLR4SXh5ubR1JImF9EVkpeTlZKRkZBRU9dQUlHWUZGw1xTx8DQxMREXt3S1sLIRs/YxAhkCCMnJycPN48EL6+EkaKMohHJ4P8BBkEOBiMGI2ZGJQYmQUZmQcb/RxjkGRgYWRnBgAEKGJmYWVjZ2Dk4ubiBCrYKMDAxMjMzsTCzsrKwAGVrgfIMLIKsQoqGjmzCgYnsSoUiRo0TF3IoO208KBp08YOKcVJREyeXmLiEpJSqmrqGppaJqZm5haWVs4urm7uHp1dwSGhYeERkVHJKalp6RmZWcUlpWXlFZVVzS2tbe0dn16TJU6ZOmz5j5qxFi5csXbZ8xcpVmzZv2bpt+46duw4dPnL02PETJ09dunzl6rXrN27eevjo8ZOnz56/ePnq46fPX75++/7j5y+QvxgZmBlhAKu/BIH+YmJhYWZhB/mLkakcpECQhVXRkE3IMZA9sVBYyaiRQ8Rp4sKNBzmVjYM+iCYVXeQSUzF5qPoR5DWwz4jzWBNZPoN7DOGvWww8zIzAyGMWZLBn+P5LY1EDF+N5r6c1katiKidkfNNx+W5x71Qllx+D3Mx/oc6Hv5tLsW0rqV5pfvvUDbeTh/Zvq60/tPOektZy1X11aX6rgp5az9JYtIvXqUtjARMQ84lF/86Wl7kbm8V4aMGRFL3CAwz/IldJfVvKtnyFd2n6bkGWgiMJk/g4/8VPzfpxibtDT2lvqPv2VI7fFwzc/s38N3Xi8qjD9cU8xvfcTivzREcdb7ofx8B85/rk8PkzL33eedgue0flvIncPze4q3+fYv5M80vXQgGtHgYDVt2q4wWBriIMQMzY9Ov6uW/fwxqvzlh3wSL1joPNb/5zK2/di7ixYdphny6mV94ld2oZvohemRp81f2p50b2D+ufRlqYvS+yjC/ccEKtUUXiZ1uFpfxcTwcGHsZG16wIqLnImPH/TQCkqtBeqgMAAA==</data>
+        <length>1012</length>
+        <position>1</position>
+        <sys_attachment display_value="image" sys_id="c792f138dbd13300e10070e2399619d0">c792f138dbd13300e10070e2399619d0</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-06 10:21:59</sys_created_on>
+        <sys_id>8b92f138dbd13300e10070e2399619d0</sys_id>
+    </sys_attachment_doc>
+</record_update>
